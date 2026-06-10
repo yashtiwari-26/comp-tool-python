@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Google Sheets setup
-SHEET_ID = "YOUR_SHEET_ID_HERE"  # You'll provide this later
+SHEET_ID = "1AFVSvSq6fpj3Wf2yzw7Zd3IbAIEroBK8MBkXlwlkweQ"  # You'll provide this later
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 
